@@ -1,7 +1,7 @@
 {
-  "name": "project-name",
+  "name": "crypto",
   "version": "1.0.0",
-  "description": "project description",
+  "description": "crypto price",
   "main": "index.js",
   "scripts": {
     "build": "webpack --mode=development",

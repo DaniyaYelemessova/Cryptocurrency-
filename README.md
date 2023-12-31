@@ -1,6 +1,6 @@
-## <div align="center">Project name</div>
+## <div align="center">Cryptocurrencies</div>
 
-#### <div align="center">💻 _Learning project for (..................) (date)_ </div>
+#### <div align="center">💻 _Learning project for APIs 12/30/2023_ </div>
 
 **_<p align="right">By Daniya Yelemessova_**</p>
 

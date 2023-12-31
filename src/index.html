@@ -1,11 +1,23 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Document</title>
-</head>
-<body>
-  
-</body>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Cryptocurrency</title>
+  </head>
+  <body>
+    <div class="container">
+      <h1>Cryptocurrencies</h1>
+      <form>
+        <label for="ctypto">Enter a cryptocurrency:</label>
+        <input id="crypto" type="text" name="crypto" />
+        <button type="submit" class="btn btn-primary" id="currency-btn">
+          Get Price
+        </button>
+      </form>
+      <div class="output">
+      <p id="showResponse"></p>
+      </div>
+    </div>
+  </body>
 </html>
